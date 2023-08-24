@@ -1,5 +1,3 @@
-Different Types of Machine Learning Techniques and Applications for Small Business
-===========================================================================================================================================================
 
 Machine learning technology has the potential to transform small businesses by optimizing operations, improving customer experiences, and driving growth. However, there are different types of machine learning techniques that can be applied to different small business functions.
 

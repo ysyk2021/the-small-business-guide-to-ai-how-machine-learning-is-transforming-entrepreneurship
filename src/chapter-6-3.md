@@ -1,5 +1,3 @@
-Strengthening Business Resilience and Continuity with Predictive Maintenance and Supply Chain Optimization
-=====================================================================================================================================================================
 
 Small businesses face various challenges that can impact their operations and financial stability. Machine learning technology has the potential to help small businesses strengthen their business resilience and continuity by improving predictive maintenance and supply chain optimization.
 

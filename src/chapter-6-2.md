@@ -1,5 +1,3 @@
-Detecting and Mitigating Risks with Machine Learning-Enabled Fraud Detection and Prevention
-======================================================================================================================================================
 
 Small businesses are vulnerable to fraud and other risks that can impact their operations and financial stability. Machine learning technology has the potential to help small businesses detect and mitigate these risks through fraud detection and prevention.
 

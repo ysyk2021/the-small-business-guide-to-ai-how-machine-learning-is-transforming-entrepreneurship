@@ -1,5 +1,3 @@
-Boosting Employee Productivity and Performance with Machine Learning-Enabled Training and Support
-===================================================================================================================================================================
 
 Machine learning can provide small businesses with powerful tools to boost employee productivity and performance. By leveraging machine learning-enabled training and support, businesses can ensure their employees have the knowledge and skills necessary to succeed in today's fast-paced, data-driven business world.
 

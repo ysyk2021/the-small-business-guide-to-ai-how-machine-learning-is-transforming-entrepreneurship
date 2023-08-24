@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Impact of Machine Learning on Small Business Success
-==============================================================================
 
 Small business owners are always looking for ways to improve their operations and increase profitability. One way that many small businesses are achieving these goals is by implementing machine learning technology. In this chapter, we will explore how small businesses can evaluate the impact of machine learning on their success.
 

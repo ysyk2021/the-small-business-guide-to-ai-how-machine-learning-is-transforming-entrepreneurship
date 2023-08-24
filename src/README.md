@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial Intelligence (AI) has been a buzzword for a while now and it's not just because of the science fiction movies. AI is transforming many aspects of our lives, including the way businesses operate. Small businesses are no exception. In fact, AI can be a game-changer for small businesses that want to stay competitive in an ever-changing market.
 
