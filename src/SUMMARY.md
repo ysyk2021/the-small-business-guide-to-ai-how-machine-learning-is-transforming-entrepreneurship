@@ -28,3 +28,4 @@
   - [Identifying Key Performance Metrics and Goals for Machine Learning-Enhanced Business Operations](chapter-7-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)

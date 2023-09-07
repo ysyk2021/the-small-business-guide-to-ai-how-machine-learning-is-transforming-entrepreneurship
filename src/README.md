@@ -10,3 +10,7 @@ We will also look at real-life examples of small businesses that have successful
 By the end of this book, you will have a solid understanding of how AI works, the benefits it can bring to your small business, and the steps you can take to implement it. Whether you're a seasoned entrepreneur or just starting out, this book will equip you with the knowledge and tools you need to stay ahead of the competition. Let's dive in!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
