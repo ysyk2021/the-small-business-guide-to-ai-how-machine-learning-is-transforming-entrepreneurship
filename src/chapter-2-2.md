@@ -1,5 +1,4 @@
-Chapter 2: Different Types of Machine Learning Techniques and Applications for Small Business
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore different types of machine learning techniques and their applications in small businesses. We will delve into the concepts of supervised learning, unsupervised learning, and reinforcement learning, highlighting how these techniques can be leveraged to solve business problems, make informed decisions, and drive growth.
 

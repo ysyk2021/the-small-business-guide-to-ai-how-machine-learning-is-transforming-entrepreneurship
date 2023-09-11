@@ -1,5 +1,4 @@
-Chapter 6: Identifying Small Business Processes that can be Enhanced with Machine Learning
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various small business processes that can be enhanced with machine learning. We will discuss the potential applications of machine learning in areas such as customer service, inventory management, marketing, sales forecasting, and financial analysis.
 

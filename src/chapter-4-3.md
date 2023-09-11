@@ -1,5 +1,4 @@
-Chapter 3: Automating Repetitive Tasks and Processes with Robotic Process Automation (RPA)
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how Robotic Process Automation (RPA) is transforming small businesses by automating repetitive tasks and processes. We will delve into the concept of RPA, its benefits, implementation strategies, and real-world applications, showcasing how small businesses can leverage RPA to enhance efficiency, reduce errors, and free up valuable human resources.
 
